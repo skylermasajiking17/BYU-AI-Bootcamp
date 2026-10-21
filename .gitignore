@@ -10,3 +10,6 @@ Thumbs.db
 
 .vercel
 .env*
+
+# Separate repo cloned for reference
+agent-team-kit/
